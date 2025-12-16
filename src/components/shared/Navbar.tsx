@@ -71,7 +71,7 @@ const Navbar = () => {
             aria-label="Go to home section"
           >
             <div className="w-8 h-8 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-lg flex items-center justify-center transform group-hover:scale-110 transition-transform duration-200">
-              <span className="text-white font-bold text-sm">M</span>
+              <span className="text-white font-bold text-sm">H</span>
             </div>
             <span className="text-xl font-bold text-white group-hover:text-indigo-400 transition-colors duration-200">
               Hyuu.
